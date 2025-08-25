@@ -1,0 +1,3 @@
+merging_type: frame&patch
+tome_r: [0,12,0,12,0,12,0,12,0,12,0,12,0,12,0,12,0,12,0,12,0,12,0,12,]
+segment_nums: [1,1,1,1,1,1,2,2,2,2,2,2] #Block0-5: 1segments, Block6-11: 2 segments
